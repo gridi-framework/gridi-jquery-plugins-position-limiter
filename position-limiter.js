@@ -12,8 +12,6 @@
             isElementLimitedOnBottom = false;
 
         var settings = $.extend(true, {
-            animateDuration: 400,
-            animateFunction: 'linear',
             changeElementPositionWhenLimitedOnTop: true,
             changeElementPositionWhenLimitedOnBottom: true,
             elements: {
